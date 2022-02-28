@@ -1,2 +1,2 @@
-# https://jpaulauskas.github.io/Cover%20Letter/coverletter.html
+# https://jpaulauskas.github.io/Cover%20Letter/index.html
 cover letter
