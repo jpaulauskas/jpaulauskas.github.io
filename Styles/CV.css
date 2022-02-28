@@ -3,7 +3,8 @@ text-align:center;
   } 
 
  @media (min-width:320px)  { 
- /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+ /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+.Experience {width: 100%;} 
  }
 
 	p{
@@ -29,7 +30,6 @@ text-align:center;
 }
 
 .Experience{
-	@media (min-width:320px);
 	display:flex;
 	flex-basis:25%;
 }
