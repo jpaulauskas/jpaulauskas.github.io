@@ -30,10 +30,6 @@ text-align:center;
 	flex-basis:25%;
 }
 
-[class*="Experience"] {
-	width: 100%;
-}
-
 
 .Education1{
 	flex:1;
@@ -57,6 +53,7 @@ text-align:center;
 .Experience{
 	flex:1;
 	order:2;
+	width: 100%;
 }
 
 
