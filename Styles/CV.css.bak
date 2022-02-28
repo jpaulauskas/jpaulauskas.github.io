@@ -3,7 +3,7 @@ text-align:center;
   }   
 
 @media screen and (max-width: 320px) {
-	background-color: blue;
+	background-color: #deb887;
 }
 
 	p{
