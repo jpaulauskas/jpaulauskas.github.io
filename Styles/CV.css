@@ -1,12 +1,11 @@
 body {background-color: #90d390;
-	text-align:center;
+text-align:center;
   }   
 
 	p{
 		color:black;
 		font-family: Calibri;		
 	}
-
 
 .Education{
 	align-items:center;
@@ -69,4 +68,4 @@ body {background-color: #90d390;
 	flex:1;
 	order:3;
 }
-
+}

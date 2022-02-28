@@ -1,17 +1,12 @@
 body {background-color: #90d390;
 	text-align:center;
-  } 
-  
+  }   
 
 	p{
 		color:black;
 		font-family: Calibri;		
 	}
 
-	[class*="col-"] {
-	  float: left;
-	  padding: 15px;
-	}
 
 .Education{
 	align-items:center;
