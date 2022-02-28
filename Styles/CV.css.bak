@@ -2,10 +2,9 @@ body {background-color: #90d390;
 text-align:center;
   } 
 
-  /* For mobile phones: */
-  [class*="Experience"] {
-    width: 480px;
-  }
+ @media (min-width:320px)  { 
+ /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+ }
 
 	p{
 		color:black;

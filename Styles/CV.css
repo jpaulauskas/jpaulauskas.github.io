@@ -29,6 +29,7 @@ text-align:center;
 }
 
 .Experience{
+	@media (min-width:320px);
 	display:flex;
 	flex-basis:25%;
 }
