@@ -4,7 +4,7 @@ text-align:center;
 
   /* For mobile phones: */
   [class*="Experience"] {
-    width: 100%;
+    width: 480px;
   }
 
 	p{
