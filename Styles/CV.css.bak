@@ -17,7 +17,7 @@ text-align:center;
 .Education div, .Experience div, .Skills div{
 	border: 3px #ccc solid;
 	padding: 20px;	
-	width: 100%;
+	width: 320px;
 }
 
 
