@@ -70,7 +70,7 @@ text-align:center;
 	order:3;
 }
 
-[class*="col-"] {
+[class*="Experience"] {
   width: 100%;
 }
 
