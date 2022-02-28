@@ -2,6 +2,10 @@ body {background-color: #90d390;
 text-align:center;
   }   
 
+@media screen and (max-width: 320px) {
+	background-color: blue;
+}
+
 	p{
 		color:black;
 		font-family: Calibri;		
