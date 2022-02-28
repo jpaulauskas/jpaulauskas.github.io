@@ -1,0 +1,76 @@
+body {background-color: #90d390;
+text-align:center;
+  } 
+
+
+.profile{
+	
+}
+
+	p{
+		color:black;
+		font-family: Calibri;		
+	}
+
+.Education{
+	align-items:center;
+	flex:wrap;
+	justify-content:space-between;
+	
+}
+
+.Education div, .Experience div, .Skills div{
+	border: 3px #ccc solid;
+	padding: 20px;	
+}
+
+
+.Skills{
+	flex-direction:column;
+}
+
+.Experience{
+	display:flex;
+	flex-basis:25%;
+}
+
+
+.Education1{
+	flex:1;
+	order:4;
+}
+.Education2{
+	flex:1;
+	order:2;
+}
+.Education3{
+	flex:1;
+	order:3;
+}
+.Education4{
+	flex:1;
+	order:4;
+}
+
+	
+
+.Experience{
+	flex:1;
+	order:2;
+}
+
+
+
+.Skill1{
+	flex:1;
+	order:1;
+}
+.Skill2{
+	flex:1;
+	order:2;
+}
+.Skill3{
+	flex:1;
+	order:3;
+}
+}
