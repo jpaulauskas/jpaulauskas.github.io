@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+<title> jonas.paulauskas.cv </title>
+<link rel="stylesheet"href="Styles/CV.css">
+	
+	</head>
+	
+	<h1> JONAS PAULAUSKAS </h1>
+	
+	<h3><img src="Pictures/profile.jpeg" alt="profile" width="128" height="128"></h3>
+	 Email: <h3> paulauskas.jon@gmail.com </h3> 
+	 Phone number: <h3> +353 899669476</h3> <br>
+	 <a href=”https://ie.linkedin.com/in/jonas-paulauskas-cams-17a329134">Linkedin profile</a>
+	<div class="link"><a href="Cover Letter/coverletter.html">Cover Letter</a></div>
+	<div class="link"><a href="jonas.paulauskas.cv.html">Experience, Skills and Education</a></div>
+	
+		<body>			
+		<div class="Education">
+			<h2> Education </h2>
+					<p>
+					<div class="Education1">Dates:	2022 January – 2022 December<br>
+				Title of qualification:	Higher Diploma in Computing Science – Cyber Security<br>
+				National College of Ireland <br><br>
+					</div>
+				
+					<div class="Education2">Dates:	2021 November – no end date<br>
+				Title of qualification:	CAMS – Virtual Currency & Blockchain<br><br>
+				
+
+				Dates:	2019 April – no end date<br>
+				CAMS Certification<br><br>
+				Name of organisation:	Association of Certified Anti-Money Laundering Specialists<br><br>
+					</div>
+	
+					<div class="Education3">Dates:	2013 September – 2015 June<br>
+				Title of qualification :	Master’s diploma. Master’s degree in Project Management.<br>
+				Name of organisation:	Mykolas Romeris University, Lithuania, Vilnius.<br><br>
+					</div>
+	
+					<div class="Education4">Dates:	2009 September – 2013 June<br>
+				Title of qualification:	Bachelor diploma, Bachelor’s Degree in Political Sciences.<br>
+				Name of organisation:	Vytautas Magnus University, Kaunas, Lithuania<br><br>
+					</p>
+					</div>
+		</div>
+			<h2> Experience </h2>
+			<div class="Experience">
+				<p>
+				<div class="Exp1">Dates:	01/08/2017–Present<br>
+				Position:	Global Financial Crimes Investigator (EDD)<br>
+				Organisation name:	PayPal (Éire/Ireland)<br>
+				Responsibilities and achievements: * Responsibilities: Performing transaction monitoring and data analysis to identify potential Money Laundering, Terrorist Financing and other illegal activities.<br><br>
+				</div>
+				
+				<div class="Exp2">Dates:	06/03/2017–01/08/2017<br>
+				Position:	Russian Compliance Analyst<br>
+				Organisation name:	PayPal, Dundalk (Éire/Ireland)<br>
+				Responsibilities and achievements:	* Conducting an end-to-end and meticulous review of potential illegal activity.<br><br>
+				</div>
+				
+				<div class="Exp3">Dates:	03/08/2015–01/03/2017<br>
+				Position:	Specialist, Global AML Investigations & Suspicious Activity Reporting<br>
+				Organisation name:	Western Union Business Solutions, Vilnius, Lithuania.<br>
+				Responsibilities and achievements:	* Monitor transactional activity and identify patterns and trends associated with money laundering, terrorism financing, illegal financial activities and any other potential risks.<br><br>
+				</div>
+				
+				<div class="Exp4">Dates:	21/07/2014–03/08/2015<br>
+				Position:	Coordinator, operations, WUBS Compliance Department<br>
+				Organisation name:	Western Union Business Solutions, Vilnius, Lithuania.<br>
+				Responsibilities and achievements:	* Working with Salesforce and data analysis tools to collect and upgrade information.<br><br>
+				</div>
+				</p>
+			</div>
+			
+			<div class="Skills"><ul>
+				<h2> Skills </h2>
+				<p>
+				<div class="Skill1"><li>Proficient in Microsoft Office programmes - Excel, Word, Power Point, Outlook.</div><br>
+				<div class="Skill2"><li>Intermediate SQL data analysis, basic JAVA and HTML.</div><br>
+				<div class="Skill3"><li>Experience with case management, data analysis, risk management and transaction monitoring systems, internal and external databases, document management system - Salesforce, Norkom, World Check, D&B, etc.</div><br><br>
+				</p></ul>
+			</div>
+		
+
+	
+		</body>
+		
+</html>
