@@ -2,11 +2,6 @@ body {background-color: #90d390;
 text-align:center;
   } 
 
- @media (min-width:320px)  { 
- /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
-.Experience {width: 100%;} 
- }
-
 	p{
 		color:black;
 		font-family: Calibri;		
@@ -22,6 +17,7 @@ text-align:center;
 .Education div, .Experience div, .Skills div{
 	border: 3px #ccc solid;
 	padding: 20px;	
+	width: 100%;
 }
 
 
