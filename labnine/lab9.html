@@ -1,0 +1,75 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head>
+		
+		<title>Lab9Question4</title>
+		
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<style>
+	.lab {
+	text-align: center;
+	color: black;
+	}
+
+	
+		/* for 1px or less */
+	@media screen and (max-width: 1500px) {
+	body{
+	background-color: lightblue;
+	}
+	#pagewrap {
+	width: 94%;
+	}
+	#content {
+	width: 65%;
+	}
+	#sidebar {
+	width: 30%;
+	}
+	}
+	
+	@media screen and (max-width: 480px) {
+	body{
+	background-color: red;
+	}
+	#header {
+	height: auto;
+	}
+	h1 {
+	font-size: 24px;
+	}
+	#sidebar {
+	display: none;
+	}
+	}
+	
+	</style>
+
+			
+	</head>
+	
+	
+	<body>
+	
+	<h1 class="lab">This is Week 9 Lab - Prepred by Jonas Paulauskas</h1>
+	<h2 class="lab">Question 1  <span id="main"> </h2>	
+	<br>
+	<button class="button" onclick="Song()">Sing a song</button>
+	
+	<br><p><span id="lyrics"></p>
+	
+	
+	
+	
+<br><br>
+
+	<h3 class="lab">Question 3: How many subjects do you have and what are the marks?</h3>
+	
+	<button class="button" onclick="Grades()">Click to enter grades</button>
+	<p><span id="secondTask"></p>
+	<script src="lab9.js"></script>		
+	</body>
+
+</html>
